@@ -4,7 +4,7 @@ This is a brief portfolio piece featuring a static landing page for a dog groome
 **Link to project:** https://happytailsdoggroomings.netlify.app/
 
 
-![alt tag](images/ProjectPreview.png)
+![alt tag](images/happyTails.gif)
 
 ## How It's Made:
 
