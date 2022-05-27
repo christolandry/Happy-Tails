@@ -19,6 +19,15 @@ This was my first piece to specifically show off to freelance clients.  It gave 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
+**Portfolio Page:** https://github.com/christolandry/Portfolio
+
+**Charlotte Astrophiles:** https://github.com/christolandry/Charlotte-Astrophiles
+
+**Ascent Running Camp:** https://AscentRunningCamp.com
+
+**Professional Runner (retired):** https://ChristoLandry.com
+
+**Ascent Running Coaching:** https://AscentRunningCoaching.com
 
 
 
