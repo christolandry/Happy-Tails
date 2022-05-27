@@ -23,7 +23,7 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Charlotte Astrophiles:** https://github.com/christolandry/Charlotte-Astrophiles
 
-**Ascent Running Camp:** https://AscentRunningCamp.com
+**Ascent Running Camp:** https://github.com/christolandry/AscentRunningCamp
 
 **Professional Runner (retired):** https://ChristoLandry.com
 
